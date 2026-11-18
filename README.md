@@ -2,9 +2,15 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Md. Habibullah
 =======================================================================================================================================
+## 👨‍💻 About Me
 
-Frontend developer. Programming Hero Student
---------------------------------------------
+I'm a passionate Frontend Developer from Bangladesh,
+focused on building modern, responsive, and
+user-friendly web applications. I am Programming Hero Student now. 
+
+I enjoy turning creative ideas into functional
+websites using clean and maintainable code.
+
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [hello@mdhabibullah.com](mailto:hello@mdhabibullah.com)
